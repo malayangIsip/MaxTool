@@ -1,0 +1,10 @@
+Run Date: 18-11-2016_12-04-59
+WONUM = 2873411
+WO Area = Wellington
+WO Discipline = TRACK
+WO Region = Central
+WO Total Cost = 1,926.68
+WF Approval Level 1 Approver = MXSVCEMGR1
+WO 2873411 status = WMATL
+End Workflow.
+

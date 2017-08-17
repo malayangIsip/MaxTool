@@ -1,0 +1,12 @@
+Run Date: 18-11-2016_12-01-45
+Parent WONUM = 2872567
+WO Area = Wellington
+WO Discipline = TRACK
+WO Region = Central
+WO Total Cost = 3,853.36
+Child WONUM = 2873399
+WF Approval Level 1 Approver = MXAREAMGR2
+Parent WO 2872567 status = WMATL
+Child WO 2873399 status = PLAN
+End Workflow.
+

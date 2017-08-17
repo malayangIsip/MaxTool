@@ -1,0 +1,94 @@
+11-04-2017_09-45-46
+To check: 48115756
+Created revision 1 and added new PO line with unit cost=1000.
+Cancelled revision 1.
+Verify with SAP that the added PO has not gone through.
+
+
+11-04-2017_09-48-52
+To check: 48137469
+Created revision 1 and added new PO line with unit cost=1000.
+Approved revision 1.
+Verify with SAP that the added PO line has  gone through.
+
+
+11-04-2017_09-52-34
+To check: 48137470
+Created revision 1 and modified quantity to add 10%.
+Verify with SAP that the added PO has gone through.
+
+
+11-04-2017_09-57-20
+To check: 48137482
+Created revision 1 and modified quantity to add 10%.
+Verify with SAP that the added PO has gone through.
+
+
+11-04-2017_09-59-16
+To check: 48116595
+Created revision 1 and added new PO line with unit cost=20.
+Verify with SAP that the added PO has gone through.
+
+
+11-04-2017_10-01-35
+To check: 48137483
+Created revision 1 and added new PO line with unit cost=20.
+Verify with SAP that the added PO has gone through.
+
+
+13-04-2017_15-42-32
+To check: 48115805
+Created revision 1 and added new PO line with unit cost=1000.
+Cancelled revision 1.
+Verify with SAP that the added PO has not gone through.
+
+
+13-04-2017_15-45-18
+To check: 48137487
+Created revision 1 and added new PO line with unit cost=1000.
+Approved revision 1.
+Verify with SAP that the added PO line has  gone through.
+
+
+13-04-2017_15-48-36
+To check: 48116052
+Created revision 1 and modified quantity to add 10%.
+Verify with SAP that the added PO has gone through.
+
+
+13-04-2017_15-51-38
+To check: 48137478
+Created revision 1 and modified quantity to add 10%.
+Verify with SAP that the added PO has gone through.
+
+
+13-04-2017_15-53-19
+To check: 48117109
+Created revision 1 and added new PO line with unit cost=20.
+Verify with SAP that the added PO has gone through.
+
+
+13-04-2017_15-55-19
+To check: 48115650
+Created revision 1 and added new PO line with unit cost=20.
+Verify with SAP that the added PO has gone through.
+
+
+13-04-2017_15-58-59
+To check: 48116113
+Created revision 1 and modified quantity to add 10%.
+Verify with SAP that the added PO has gone through.
+
+
+13-04-2017_16-01-47
+To check: 48116004
+Created revision 1 and added new PO line with unit cost=200.
+Verify with SAP that the added PO has gone through.
+
+
+20-04-2017_14-56-38
+To check: 48116141
+Created revision 1 and modified quantity to add 10%.
+Verify with SAP that the added PO has gone through.
+
+
